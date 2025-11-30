@@ -1,0 +1,5 @@
+{
+  "name": "LibFlow",
+  "description": "A modern library management interface featuring AI-powered book recommendations and real-time seat availability tracking.",
+  "requestFramePermissions": []
+}
